@@ -1,5 +1,3 @@
-# CompleteFreedom
-<!DOCTYPE html>
 <html>
 <head>
     <title>Дайтона - Complete Freedom</title>
